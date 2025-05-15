@@ -220,8 +220,7 @@ python main.py
 ---
 淘宝：
 
-![发送淘宝优惠信息]
-(https://github.com/why2lyj/youxiang/blob/master/images/yangli.jpg?raw=true)
+!(https://github.com/why2lyj/youxiang/blob/master/images/yangli.jpg?raw=true)
 
 ---
 京东：
